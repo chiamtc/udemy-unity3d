@@ -1,3 +1,4 @@
-**/Assets/Models/*
-**/Assets/Textures/*
+**/Assets/*
 **/Library/*
+
+!**/Assets/Scripts/*
